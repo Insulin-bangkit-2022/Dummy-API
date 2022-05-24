@@ -1,2 +1,2 @@
 # Dummy-API
-Just a Python Flask DUmmy-API for Mobile Development
+Just a Python Flask Dummy-API for Mobile Development
